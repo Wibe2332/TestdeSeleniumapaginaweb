@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chromedriver": "^135.0.2",
+    "fs-extra": "^11.3.0",
+    "pdfkit": "^0.17.0",
+    "selenium-webdriver": "^4.31.0"
+  }
+}
